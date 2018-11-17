@@ -1,2 +1,3 @@
 # es-metamorphosis
-presentation about javascript changes
+
+Presentation about javascript changes in a past.
